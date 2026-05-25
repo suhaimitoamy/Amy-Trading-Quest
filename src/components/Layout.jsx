@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { Map, Home, BookOpen, Settings as SettingsIcon, Brain, Activity, BookMarked } from 'lucide-react';
+import { Map, Home, BookOpen, Activity, LayoutGrid } from 'lucide-react';
 
 export default function Layout({ children }) {
   const location = useLocation();
@@ -8,10 +8,8 @@ export default function Layout({ children }) {
     { path: '/', icon: Home, label: 'Home' },
     { path: '/quest', icon: Map, label: 'Quest' },
     { path: '/materi', icon: BookOpen, label: 'Materi' },
-    { path: '/ai', icon: Brain, label: 'AI' },
     { path: '/progress', icon: Activity, label: 'Progress' },
-    { path: '/journal', icon: BookMarked, label: 'Journal' },
-    { path: '/settings', icon: SettingsIcon, label: 'Settings' }
+    { path: '/more', icon: LayoutGrid, label: 'More' }
   ];
 
   return (

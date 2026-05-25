@@ -77,11 +77,6 @@ export default function Quiz() {
         await addXP(quiz.xpReward);
       }
       
-      const currentLevel = levels.find(l => l.id === quiz.levelId);
-      if (currentLevel && currentLevel.nextLevel) {
-        await unlockLevel(currentLevel.nextLevel);
-      }
-      
       saveQuizResult(quizId, percentage, true, 0, false);
     } else {
       // Calculate new fail count manually before state updates via zustand
@@ -139,8 +134,8 @@ export default function Quiz() {
 
         <div className="flex flex-col gap-4">
           {passed ? (
-            <button onClick={() => navigate('/quest')} className="w-full bg-neon text-dark font-bold py-4 rounded-xl flex justify-center items-center gap-2 hover:bg-white transition-colors">
-              <CheckCircle /> Kembali ke Map
+            <button onClick={() => navigate(`/essay/${quizId}`)} className="w-full bg-neon text-dark font-bold py-4 rounded-xl flex justify-center items-center gap-2 hover:bg-white transition-colors shadow-[0_0_15px_rgba(0,255,170,0.4)]">
+              <CheckCircle /> Lanjut ke Ujian Esai AI
             </button>
           ) : (
             <>

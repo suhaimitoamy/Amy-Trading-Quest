@@ -10,6 +10,8 @@ import AiEvaluator from './pages/AiEvaluator';
 import Progress from './pages/Progress';
 import Journal from './pages/Journal';
 import Settings from './pages/Settings';
+import MoreMenu from './pages/MoreMenu';
+import AiEssayExam from './pages/AiEssayExam';
 
 function App() {
   return (
@@ -26,6 +28,8 @@ function App() {
             <Route path="/progress" element={<Progress />} />
             <Route path="/journal" element={<Journal />} />
             <Route path="/settings" element={<Settings />} />
+            <Route path="/more" element={<MoreMenu />} />
+            <Route path="/essay/:quizId" element={<AiEssayExam />} />
           </Routes>
         </Layout>
       </Router>

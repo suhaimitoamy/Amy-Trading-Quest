@@ -140,6 +140,23 @@ export const useStore = create((set, get) => ({
     set({ progress: newProgress });
   },
 
+  saveEssayResult: async (quizId, score, passed, feedback) => {
+    const rawProgress = get().progress;
+    const progress = rawProgress || defaultProgress;
+
+    const currentResults = progress.essayResults || {};
+    
+    const newProgress = {
+      ...progress,
+      essayResults: {
+        ...currentResults,
+        [quizId]: { score, passed, feedback }
+      }
+    };
+    await saveProgress(newProgress);
+    set({ progress: newProgress });
+  },
+
   unlockLevel: async (levelId) => {
     const rawProgress = get().progress;
     const progress = rawProgress || defaultProgress;
