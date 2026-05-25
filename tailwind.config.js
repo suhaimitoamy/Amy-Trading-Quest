@@ -7,12 +7,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        dark: '#0a0a0a',
-        darker: '#050505',
-        neon: '#39ff14',
-        'neon-dim': 'rgba(57, 255, 20, 0.2)',
-        'neon-glow': 'rgba(57, 255, 20, 0.5)',
-        danger: '#ff3333',
+        dark: 'var(--bg-dark)',
+        darker: 'var(--bg-darker)',
+        neon: 'var(--color-neon)',
+        'neon-dim': 'var(--color-neon-dim)',
+        'neon-glow': 'var(--color-neon-glow)',
+        danger: 'var(--color-danger)',
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],

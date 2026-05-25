@@ -75,11 +75,14 @@ export async function saveProgress(progress) {
 export async function getSettings() {
   const db = await initDB();
   const settings = await db.get('settings', 'main');
-  return settings || {
+  const defaults = {
     aiProvider: 'OpenRouter',
     apiKey: '',
     model: 'openrouter/auto',
+    visualTheme: 'neon-green',
+    touchEffect: 'Firefly',
   };
+  return settings ? { ...defaults, ...settings } : defaults;
 }
 
 export async function saveSettings(settings) {

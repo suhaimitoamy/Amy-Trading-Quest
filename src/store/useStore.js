@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { getProgress, saveProgress } from '../services/db';
+import { getProgress, saveProgress, getSettings, saveSettings } from '../services/db';
 import { defaultProgress } from './defaultProgress';
 import levelsData from '../data/levels.json';
 
@@ -7,6 +7,29 @@ export const useStore = create((set, get) => ({
   progress: defaultProgress,
   levels: levelsData,
   isLoading: true,
+  settings: {
+    aiProvider: 'OpenRouter',
+    apiKey: '',
+    model: 'openrouter/auto',
+    visualTheme: 'neon-green',
+    touchEffect: 'Firefly',
+  },
+
+  loadSettings: async () => {
+    try {
+      const data = await getSettings();
+      set({ settings: data });
+    } catch (err) {
+      console.error("Failed to load settings:", err);
+    }
+  },
+
+  updateSettings: async (newSettings) => {
+    const current = get().settings;
+    const updated = { ...current, ...newSettings };
+    await saveSettings(updated);
+    set({ settings: updated });
+  },
 
   loadProgress: async () => {
     // Prevent duplicate loading if already loaded real data

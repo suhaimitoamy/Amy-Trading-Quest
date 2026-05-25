@@ -1,22 +1,21 @@
 import { useState, useEffect, useRef } from 'react';
-import { getSettings, saveSettings, exportData, importData } from '../services/db';
+import { exportData, importData } from '../services/db';
 import { useStore } from '../store/useStore';
 import { Save, Download, Upload, AlertCircle } from 'lucide-react';
 
 export default function Settings() {
-  const [settings, setSettings] = useState({
-    aiProvider: 'OpenRouter',
-    apiKey: '',
-    model: 'openrouter/auto'
-  });
+  const storeSettings = useStore((state) => state.settings);
+  const updateSettings = useStore((state) => state.updateSettings);
+  
+  const [settings, setSettings] = useState(storeSettings);
   const [saved, setSaved] = useState(false);
   const [message, setMessage] = useState('');
   const fileInputRef = useRef();
   const progress = useStore((state) => state.progress);
 
   useEffect(() => {
-    getSettings().then((s) => s && setSettings(s));
-  }, []);
+    setSettings(storeSettings);
+  }, [storeSettings]);
 
   const handleChange = (e) => {
     setSettings({ ...settings, [e.target.name]: e.target.value });
@@ -24,7 +23,7 @@ export default function Settings() {
   };
 
   const handleSave = async () => {
-    await saveSettings(settings);
+    await updateSettings(settings);
     setSaved(true);
     setTimeout(() => setSaved(false), 3000);
   };
@@ -117,6 +116,52 @@ export default function Settings() {
             />
           </div>
 
+          <button 
+            onClick={handleSave}
+            className="w-full bg-neon text-dark font-bold py-3 rounded-lg flex items-center justify-center gap-2 mt-4 hover:bg-white transition-colors"
+          >
+            <Save size={20} />
+            {saved ? 'Tersimpan!' : 'Simpan Settings'}
+          </button>
+        </div>
+
+        <div className="bg-dark p-6 rounded-xl border border-gray-800 space-y-4">
+          <h2 className="text-xl font-bold mb-4 border-b border-gray-800 pb-2">Cosmetic UI</h2>
+          
+          <div>
+            <label className="block text-sm text-gray-400 mb-1">Visual Theme</label>
+            <select 
+              name="visualTheme" 
+              value={settings.visualTheme || 'neon-green'}
+              onChange={handleChange}
+              className="w-full bg-darker border border-gray-700 rounded-lg p-3 text-white outline-none focus:border-neon"
+            >
+              <option value="neon-green">Neon Green</option>
+              <option value="cyber-blue">Cyber Blue</option>
+              <option value="purple-magic">Purple Magic</option>
+              <option value="gold-premium">Gold Premium</option>
+              <option value="rainbow-aura">Rainbow Aura</option>
+              <option value="snow-calm">Snow Calm</option>
+              <option value="firefly-night">Firefly Night</option>
+            </select>
+          </div>
+
+          <div>
+            <label className="block text-sm text-gray-400 mb-1">Touch Effect</label>
+            <select 
+              name="touchEffect" 
+              value={settings.touchEffect || 'Firefly'}
+              onChange={handleChange}
+              className="w-full bg-darker border border-gray-700 rounded-lg p-3 text-white outline-none focus:border-neon"
+            >
+              <option value="Off">Off</option>
+              <option value="Firefly">Firefly</option>
+              <option value="Rainbow Sparkle">Rainbow Sparkle</option>
+              <option value="Snow Particles">Snow Particles</option>
+              <option value="Magic Trail">Magic Trail</option>
+            </select>
+          </div>
+          
           <button 
             onClick={handleSave}
             className="w-full bg-neon text-dark font-bold py-3 rounded-lg flex items-center justify-center gap-2 mt-4 hover:bg-white transition-colors"
