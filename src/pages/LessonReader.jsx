@@ -62,6 +62,17 @@ export default function LessonReader() {
 
   const isError = !content;
   
+  const base = import.meta.env.BASE_URL || "/";
+
+  function resolveAssetPath(src) {
+    if (!src) return "";
+    if (src.startsWith("http")) return src;
+    if (src.startsWith("/images/")) {
+      return `${base.replace(/\/$/, "")}${src}`;
+    }
+    return src;
+  }
+  
   const RenderedMarkdown = () => {
     return (
       <ReactMarkdown
@@ -82,15 +93,19 @@ export default function LessonReader() {
             );
           },
           // Image styling
-          img: ({node, ...props}) => (
-            <div className="flex justify-center my-8">
-              <img 
-                className="max-w-full w-full h-auto rounded-xl shadow-[0_0_20px_rgba(0,255,170,0.1)] border border-gray-800" 
-                alt={props.alt || "Ilustrasi Trading"}
-                {...props} 
-              />
-            </div>
-          ),
+          img: ({node, ...props}) => {
+            const { src, alt, ...restProps } = props;
+            return (
+              <div className="flex justify-center my-8">
+                <img 
+                  className="max-w-full w-full h-auto rounded-xl shadow-[0_0_20px_rgba(0,255,170,0.1)] border border-gray-800" 
+                  alt={alt || "Ilustrasi Trading"}
+                  src={resolveAssetPath(src)}
+                  {...restProps} 
+                />
+              </div>
+            );
+          },
           // Heading styling
           h1: ({node, ...props}) => <h1 className="text-3xl font-bold font-mono text-neon mb-6 border-b border-gray-800 pb-4" {...props} />,
           h2: ({node, ...props}) => <h2 className="text-2xl font-bold text-white mt-10 mb-4" {...props} />
