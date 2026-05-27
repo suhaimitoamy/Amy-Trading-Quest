@@ -13,6 +13,7 @@ import Journal from './pages/Journal';
 import Settings from './pages/Settings';
 import MoreMenu from './pages/MoreMenu';
 import AiEssayExam from './pages/AiEssayExam';
+import DeveloperContentEditor from './pages/DeveloperContentEditor';
 import { useStore } from './store/useStore';
 import TouchParticles from './components/TouchParticles';
 
@@ -42,6 +43,7 @@ function App() {
               <Route path="/settings" element={<Settings />} />
               <Route path="/more" element={<MoreMenu />} />
               <Route path="/essay/:quizId" element={<AiEssayExam />} />
+              <Route path="/developer-content" element={<DeveloperContentEditor />} />
             </Routes>
           </Layout>
         </Router>

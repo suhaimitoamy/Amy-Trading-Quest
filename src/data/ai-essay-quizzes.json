@@ -2742,5 +2742,1805 @@
       "level-50/05-studi-kasus",
       "level-50/06-ringkasan-dan-remedial"
     ]
+  },
+  {
+    "id": "essay-quiz-51",
+    "quizId": "quiz-51",
+    "levelId": "level-51",
+    "title": "IPDA dan Price Delivery AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan IPDA dan Price Delivery dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup IPDA dan Price Delivery yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area IPDA dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-51/01-pondasi-ipda-dan-price-delivery",
+      "level-51/02-mekanisme-ipda-dan-price-delivery",
+      "level-51/03-membaca-ipda-dan-price-delivery-di-chart",
+      "level-51/04-eksekusi-invalidasi-ipda-dan-price-delivery",
+      "level-51/05-kesalahan-umum-ipda-dan-price-delivery",
+      "level-51/06-studi-kasus-xauusd-ipda-dan-price-delivery"
+    ]
+  },
+  {
+    "id": "essay-quiz-52",
+    "quizId": "quiz-52",
+    "levelId": "level-52",
+    "title": "AMD dan Power of 3 AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan AMD dan Power of 3 dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup AMD dan Power of 3 yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Accumulation dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-52/01-pondasi-amd-dan-power-of-3",
+      "level-52/02-mekanisme-amd-dan-power-of-3",
+      "level-52/03-membaca-amd-dan-power-of-3-di-chart",
+      "level-52/04-eksekusi-invalidasi-amd-dan-power-of-3",
+      "level-52/05-kesalahan-umum-amd-dan-power-of-3",
+      "level-52/06-studi-kasus-xauusd-amd-dan-power-of-3"
+    ]
+  },
+  {
+    "id": "essay-quiz-53",
+    "quizId": "quiz-53",
+    "levelId": "level-53",
+    "title": "Judas Swing dan Session Manipulation AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Judas Swing dan Session Manipulation dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Judas Swing dan Session Manipulation yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Judas Swing dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-53/01-pondasi-judas-swing-dan-session-manipulation",
+      "level-53/02-mekanisme-judas-swing-dan-session-manipulation",
+      "level-53/03-membaca-judas-swing-dan-session-manipulation-di-chart",
+      "level-53/04-eksekusi-invalidasi-judas-swing-dan-session-manipulation",
+      "level-53/05-kesalahan-umum-judas-swing-dan-session-manipulation",
+      "level-53/06-studi-kasus-xauusd-judas-swing-dan-session-manipulation"
+    ]
+  },
+  {
+    "id": "essay-quiz-54",
+    "quizId": "quiz-54",
+    "levelId": "level-54",
+    "title": "Killzone dan Macro Time Windows AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Killzone dan Macro Time Windows dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Killzone dan Macro Time Windows yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area London Killzone dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-54/01-pondasi-killzone-dan-macro-time-windows",
+      "level-54/02-mekanisme-killzone-dan-macro-time-windows",
+      "level-54/03-membaca-killzone-dan-macro-time-windows-di-chart",
+      "level-54/04-eksekusi-invalidasi-killzone-dan-macro-time-windows",
+      "level-54/05-kesalahan-umum-killzone-dan-macro-time-windows",
+      "level-54/06-studi-kasus-xauusd-killzone-dan-macro-time-windows"
+    ]
+  },
+  {
+    "id": "essay-quiz-55",
+    "quizId": "quiz-55",
+    "levelId": "level-55",
+    "title": "Turtle Soup Model AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Turtle Soup Model dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Turtle Soup Model yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Turtle Soup dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-55/01-pondasi-turtle-soup-model",
+      "level-55/02-mekanisme-turtle-soup-model",
+      "level-55/03-membaca-turtle-soup-model-di-chart",
+      "level-55/04-eksekusi-invalidasi-turtle-soup-model",
+      "level-55/05-kesalahan-umum-turtle-soup-model",
+      "level-55/06-studi-kasus-xauusd-turtle-soup-model"
+    ]
+  },
+  {
+    "id": "essay-quiz-56",
+    "quizId": "quiz-56",
+    "levelId": "level-56",
+    "title": "CISD / Change in State of Delivery AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan CISD / Change in State of Delivery dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup CISD / Change in State of Delivery yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area CISD dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-56/01-pondasi-cisd-change-in-state-of-delivery",
+      "level-56/02-mekanisme-cisd-change-in-state-of-delivery",
+      "level-56/03-membaca-cisd-change-in-state-of-delivery-di-chart",
+      "level-56/04-eksekusi-invalidasi-cisd-change-in-state-of-delivery",
+      "level-56/05-kesalahan-umum-cisd-change-in-state-of-delivery",
+      "level-56/06-studi-kasus-xauusd-cisd-change-in-state-of-delivery"
+    ]
+  },
+  {
+    "id": "essay-quiz-57",
+    "quizId": "quiz-57",
+    "levelId": "level-57",
+    "title": "Silver Bullet Model AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Silver Bullet Model dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Silver Bullet Model yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Silver Bullet dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-57/01-pondasi-silver-bullet-model",
+      "level-57/02-mekanisme-silver-bullet-model",
+      "level-57/03-membaca-silver-bullet-model-di-chart",
+      "level-57/04-eksekusi-invalidasi-silver-bullet-model",
+      "level-57/05-kesalahan-umum-silver-bullet-model",
+      "level-57/06-studi-kasus-xauusd-silver-bullet-model"
+    ]
+  },
+  {
+    "id": "essay-quiz-58",
+    "quizId": "quiz-58",
+    "levelId": "level-58",
+    "title": "OTE dan Fibonacci ICT AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan OTE dan Fibonacci ICT dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup OTE dan Fibonacci ICT yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area OTE dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-58/01-pondasi-ote-dan-fibonacci-ict",
+      "level-58/02-mekanisme-ote-dan-fibonacci-ict",
+      "level-58/03-membaca-ote-dan-fibonacci-ict-di-chart",
+      "level-58/04-eksekusi-invalidasi-ote-dan-fibonacci-ict",
+      "level-58/05-kesalahan-umum-ote-dan-fibonacci-ict",
+      "level-58/06-studi-kasus-xauusd-ote-dan-fibonacci-ict"
+    ]
+  },
+  {
+    "id": "essay-quiz-59",
+    "quizId": "quiz-59",
+    "levelId": "level-59",
+    "title": "ICT 2022 Mentorship Entry Model AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan ICT 2022 Mentorship Entry Model dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup ICT 2022 Mentorship Entry Model yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area liquidity sweep dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-59/01-pondasi-ict-2022-mentorship-entry-model",
+      "level-59/02-mekanisme-ict-2022-mentorship-entry-model",
+      "level-59/03-membaca-ict-2022-mentorship-entry-model-di-chart",
+      "level-59/04-eksekusi-invalidasi-ict-2022-mentorship-entry-model",
+      "level-59/05-kesalahan-umum-ict-2022-mentorship-entry-model",
+      "level-59/06-studi-kasus-xauusd-ict-2022-mentorship-entry-model"
+    ]
+  },
+  {
+    "id": "essay-quiz-60",
+    "quizId": "quiz-60",
+    "levelId": "level-60",
+    "title": "Unicorn dan Inversion Entry Model AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Unicorn dan Inversion Entry Model dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Unicorn dan Inversion Entry Model yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Unicorn setup dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-60/01-pondasi-unicorn-dan-inversion-entry-model",
+      "level-60/02-mekanisme-unicorn-dan-inversion-entry-model",
+      "level-60/03-membaca-unicorn-dan-inversion-entry-model-di-chart",
+      "level-60/04-eksekusi-invalidasi-unicorn-dan-inversion-entry-model",
+      "level-60/05-kesalahan-umum-unicorn-dan-inversion-entry-model",
+      "level-60/06-studi-kasus-xauusd-unicorn-dan-inversion-entry-model"
+    ]
+  },
+  {
+    "id": "essay-quiz-61",
+    "quizId": "quiz-61",
+    "levelId": "level-61",
+    "title": "PD Array Matrix AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan PD Array Matrix dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup PD Array Matrix yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area PD Array dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-61/01-pondasi-pd-array-matrix",
+      "level-61/02-mekanisme-pd-array-matrix",
+      "level-61/03-membaca-pd-array-matrix-di-chart",
+      "level-61/04-eksekusi-invalidasi-pd-array-matrix",
+      "level-61/05-kesalahan-umum-pd-array-matrix",
+      "level-61/06-studi-kasus-xauusd-pd-array-matrix"
+    ]
+  },
+  {
+    "id": "essay-quiz-62",
+    "quizId": "quiz-62",
+    "levelId": "level-62",
+    "title": "Consequent Encroachment AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Consequent Encroachment dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Consequent Encroachment yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Consequent Encroachment dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-62/01-pondasi-consequent-encroachment",
+      "level-62/02-mekanisme-consequent-encroachment",
+      "level-62/03-membaca-consequent-encroachment-di-chart",
+      "level-62/04-eksekusi-invalidasi-consequent-encroachment",
+      "level-62/05-kesalahan-umum-consequent-encroachment",
+      "level-62/06-studi-kasus-xauusd-consequent-encroachment"
+    ]
+  },
+  {
+    "id": "essay-quiz-63",
+    "quizId": "quiz-63",
+    "levelId": "level-63",
+    "title": "Propulsion Block AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Propulsion Block dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Propulsion Block yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Propulsion Block dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-63/01-pondasi-propulsion-block",
+      "level-63/02-mekanisme-propulsion-block",
+      "level-63/03-membaca-propulsion-block-di-chart",
+      "level-63/04-eksekusi-invalidasi-propulsion-block",
+      "level-63/05-kesalahan-umum-propulsion-block",
+      "level-63/06-studi-kasus-xauusd-propulsion-block"
+    ]
+  },
+  {
+    "id": "essay-quiz-64",
+    "quizId": "quiz-64",
+    "levelId": "level-64",
+    "title": "Volume Imbalance dan Gap Analysis AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Volume Imbalance dan Gap Analysis dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Volume Imbalance dan Gap Analysis yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Volume Imbalance dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-64/01-pondasi-volume-imbalance-dan-gap-analysis",
+      "level-64/02-mekanisme-volume-imbalance-dan-gap-analysis",
+      "level-64/03-membaca-volume-imbalance-dan-gap-analysis-di-chart",
+      "level-64/04-eksekusi-invalidasi-volume-imbalance-dan-gap-analysis",
+      "level-64/05-kesalahan-umum-volume-imbalance-dan-gap-analysis",
+      "level-64/06-studi-kasus-xauusd-volume-imbalance-dan-gap-analysis"
+    ]
+  },
+  {
+    "id": "essay-quiz-65",
+    "quizId": "quiz-65",
+    "levelId": "level-65",
+    "title": "Rejection Block dan Vacuum Block AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Rejection Block dan Vacuum Block dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Rejection Block dan Vacuum Block yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Rejection Block dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-65/01-pondasi-rejection-block-dan-vacuum-block",
+      "level-65/02-mekanisme-rejection-block-dan-vacuum-block",
+      "level-65/03-membaca-rejection-block-dan-vacuum-block-di-chart",
+      "level-65/04-eksekusi-invalidasi-rejection-block-dan-vacuum-block",
+      "level-65/05-kesalahan-umum-rejection-block-dan-vacuum-block",
+      "level-65/06-studi-kasus-xauusd-rejection-block-dan-vacuum-block"
+    ]
+  },
+  {
+    "id": "essay-quiz-66",
+    "quizId": "quiz-66",
+    "levelId": "level-66",
+    "title": "Liquidity Void AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Liquidity Void dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Liquidity Void yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Liquidity Void dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-66/01-pondasi-liquidity-void",
+      "level-66/02-mekanisme-liquidity-void",
+      "level-66/03-membaca-liquidity-void-di-chart",
+      "level-66/04-eksekusi-invalidasi-liquidity-void",
+      "level-66/05-kesalahan-umum-liquidity-void",
+      "level-66/06-studi-kasus-xauusd-liquidity-void"
+    ]
+  },
+  {
+    "id": "essay-quiz-67",
+    "quizId": "quiz-67",
+    "levelId": "level-67",
+    "title": "Trendline Liquidity AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Trendline Liquidity dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Trendline Liquidity yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area trendline liquidity dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-67/01-pondasi-trendline-liquidity",
+      "level-67/02-mekanisme-trendline-liquidity",
+      "level-67/03-membaca-trendline-liquidity-di-chart",
+      "level-67/04-eksekusi-invalidasi-trendline-liquidity",
+      "level-67/05-kesalahan-umum-trendline-liquidity",
+      "level-67/06-studi-kasus-xauusd-trendline-liquidity"
+    ]
+  },
+  {
+    "id": "essay-quiz-68",
+    "quizId": "quiz-68",
+    "levelId": "level-68",
+    "title": "High Resistance vs Low Resistance Liquidity Run AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan High Resistance vs Low Resistance Liquidity Run dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup High Resistance vs Low Resistance Liquidity Run yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area high resistance liquidity dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-68/01-pondasi-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/02-mekanisme-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/03-membaca-high-resistance-vs-low-resistance-liquidity-run-di-chart",
+      "level-68/04-eksekusi-invalidasi-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/05-kesalahan-umum-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/06-studi-kasus-xauusd-high-resistance-vs-low-resistance-liquidity-run"
+    ]
+  },
+  {
+    "id": "essay-quiz-69",
+    "quizId": "quiz-69",
+    "levelId": "level-69",
+    "title": "False Displacement AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan False Displacement dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup False Displacement yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area false displacement dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-69/01-pondasi-false-displacement",
+      "level-69/02-mekanisme-false-displacement",
+      "level-69/03-membaca-false-displacement-di-chart",
+      "level-69/04-eksekusi-invalidasi-false-displacement",
+      "level-69/05-kesalahan-umum-false-displacement",
+      "level-69/06-studi-kasus-xauusd-false-displacement"
+    ]
+  },
+  {
+    "id": "essay-quiz-70",
+    "quizId": "quiz-70",
+    "levelId": "level-70",
+    "title": "Continuation Failure AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Continuation Failure dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Continuation Failure yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area continuation failure dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-70/01-pondasi-continuation-failure",
+      "level-70/02-mekanisme-continuation-failure",
+      "level-70/03-membaca-continuation-failure-di-chart",
+      "level-70/04-eksekusi-invalidasi-continuation-failure",
+      "level-70/05-kesalahan-umum-continuation-failure",
+      "level-70/06-studi-kasus-xauusd-continuation-failure"
+    ]
+  },
+  {
+    "id": "essay-quiz-71",
+    "quizId": "quiz-71",
+    "levelId": "level-71",
+    "title": "MMXM / Market Maker Model AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan MMXM / Market Maker Model dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup MMXM / Market Maker Model yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area Market Maker Buy Model dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-71/01-pondasi-mmxm-market-maker-model",
+      "level-71/02-mekanisme-mmxm-market-maker-model",
+      "level-71/03-membaca-mmxm-market-maker-model-di-chart",
+      "level-71/04-eksekusi-invalidasi-mmxm-market-maker-model",
+      "level-71/05-kesalahan-umum-mmxm-market-maker-model",
+      "level-71/06-studi-kasus-xauusd-mmxm-market-maker-model"
+    ]
+  },
+  {
+    "id": "essay-quiz-72",
+    "quizId": "quiz-72",
+    "levelId": "level-72",
+    "title": "SMT Divergence AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan SMT Divergence dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup SMT Divergence yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area SMT divergence dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-72/01-pondasi-smt-divergence",
+      "level-72/02-mekanisme-smt-divergence",
+      "level-72/03-membaca-smt-divergence-di-chart",
+      "level-72/04-eksekusi-invalidasi-smt-divergence",
+      "level-72/05-kesalahan-umum-smt-divergence",
+      "level-72/06-studi-kasus-xauusd-smt-divergence"
+    ]
+  },
+  {
+    "id": "essay-quiz-73",
+    "quizId": "quiz-73",
+    "levelId": "level-73",
+    "title": "Weekly Profile AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Weekly Profile dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Weekly Profile yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area weekly open dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-73/01-pondasi-weekly-profile",
+      "level-73/02-mekanisme-weekly-profile",
+      "level-73/03-membaca-weekly-profile-di-chart",
+      "level-73/04-eksekusi-invalidasi-weekly-profile",
+      "level-73/05-kesalahan-umum-weekly-profile",
+      "level-73/06-studi-kasus-xauusd-weekly-profile"
+    ]
+  },
+  {
+    "id": "essay-quiz-74",
+    "quizId": "quiz-74",
+    "levelId": "level-74",
+    "title": "NWOG dan NDOG AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan NWOG dan NDOG dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup NWOG dan NDOG yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area NWOG dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-74/01-pondasi-nwog-dan-ndog",
+      "level-74/02-mekanisme-nwog-dan-ndog",
+      "level-74/03-membaca-nwog-dan-ndog-di-chart",
+      "level-74/04-eksekusi-invalidasi-nwog-dan-ndog",
+      "level-74/05-kesalahan-umum-nwog-dan-ndog",
+      "level-74/06-studi-kasus-xauusd-nwog-dan-ndog"
+    ]
+  },
+  {
+    "id": "essay-quiz-75",
+    "quizId": "quiz-75",
+    "levelId": "level-75",
+    "title": "OHLC / OLHC Daily Bias AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan OHLC / OLHC Daily Bias dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup OHLC / OLHC Daily Bias yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area OHLC dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-75/01-pondasi-ohlc-olhc-daily-bias",
+      "level-75/02-mekanisme-ohlc-olhc-daily-bias",
+      "level-75/03-membaca-ohlc-olhc-daily-bias-di-chart",
+      "level-75/04-eksekusi-invalidasi-ohlc-olhc-daily-bias",
+      "level-75/05-kesalahan-umum-ohlc-olhc-daily-bias",
+      "level-75/06-studi-kasus-xauusd-ohlc-olhc-daily-bias"
+    ]
+  },
+  {
+    "id": "essay-quiz-76",
+    "quizId": "quiz-76",
+    "levelId": "level-76",
+    "title": "PDH dan PDL AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan PDH dan PDL dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup PDH dan PDL yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area PDH dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-76/01-pondasi-pdh-dan-pdl",
+      "level-76/02-mekanisme-pdh-dan-pdl",
+      "level-76/03-membaca-pdh-dan-pdl-di-chart",
+      "level-76/04-eksekusi-invalidasi-pdh-dan-pdl",
+      "level-76/05-kesalahan-umum-pdh-dan-pdl",
+      "level-76/06-studi-kasus-xauusd-pdh-dan-pdl"
+    ]
+  },
+  {
+    "id": "essay-quiz-77",
+    "quizId": "quiz-77",
+    "levelId": "level-77",
+    "title": "News Day dan Abnormal Volatility AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan News Day dan Abnormal Volatility dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup News Day dan Abnormal Volatility yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area news day dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-77/01-pondasi-news-day-dan-abnormal-volatility",
+      "level-77/02-mekanisme-news-day-dan-abnormal-volatility",
+      "level-77/03-membaca-news-day-dan-abnormal-volatility-di-chart",
+      "level-77/04-eksekusi-invalidasi-news-day-dan-abnormal-volatility",
+      "level-77/05-kesalahan-umum-news-day-dan-abnormal-volatility",
+      "level-77/06-studi-kasus-xauusd-news-day-dan-abnormal-volatility"
+    ]
+  },
+  {
+    "id": "essay-quiz-78",
+    "quizId": "quiz-78",
+    "levelId": "level-78",
+    "title": "DXY Correlation untuk XAUUSD AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan DXY Correlation untuk XAUUSD dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup DXY Correlation untuk XAUUSD yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area DXY dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-78/01-pondasi-dxy-correlation-untuk-xauusd",
+      "level-78/02-mekanisme-dxy-correlation-untuk-xauusd",
+      "level-78/03-membaca-dxy-correlation-untuk-xauusd-di-chart",
+      "level-78/04-eksekusi-invalidasi-dxy-correlation-untuk-xauusd",
+      "level-78/05-kesalahan-umum-dxy-correlation-untuk-xauusd",
+      "level-78/06-studi-kasus-xauusd-dxy-correlation-untuk-xauusd"
+    ]
+  },
+  {
+    "id": "essay-quiz-79",
+    "quizId": "quiz-79",
+    "levelId": "level-79",
+    "title": "Framework Khusus XAUUSD AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Framework Khusus XAUUSD dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Framework Khusus XAUUSD yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area XAUUSD behavior dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-79/01-pondasi-framework-khusus-xauusd",
+      "level-79/02-mekanisme-framework-khusus-xauusd",
+      "level-79/03-membaca-framework-khusus-xauusd-di-chart",
+      "level-79/04-eksekusi-invalidasi-framework-khusus-xauusd",
+      "level-79/05-kesalahan-umum-framework-khusus-xauusd",
+      "level-79/06-studi-kasus-xauusd-framework-khusus-xauusd"
+    ]
+  },
+  {
+    "id": "essay-quiz-80",
+    "quizId": "quiz-80",
+    "levelId": "level-80",
+    "title": "Full ICT Backtesting Model AI Essay Exam",
+    "type": "ai_essay",
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Jelaskan Full ICT Backtesting Model dengan urutan bias, liquidity, reaksi harga, entry zone, invalidation, dan target. Gunakan contoh XAUUSD sederhana.",
+        "expectedConcepts": [
+          "bias",
+          "liquidity",
+          "reaction",
+          "entry zone",
+          "invalidation",
+          "target",
+          "XAUUSD"
+        ]
+      },
+      {
+        "id": "q2",
+        "prompt": "Bedakan setup Full ICT Backtesting Model yang valid dan yang harus diabaikan. Sebutkan minimal tiga tanda valid dan tiga tanda bahaya.",
+        "expectedConcepts": [
+          "valid setup",
+          "warning signs",
+          "displacement",
+          "follow-through",
+          "risk management",
+          "no trade"
+        ]
+      },
+      {
+        "id": "q3",
+        "prompt": "Jika harga XAUUSD sudah bergerak jauh dari area backtesting dan jarak ke Stop Loss terlalu lebar, apa keputusan paling disiplin? Jelaskan alasannya.",
+        "expectedConcepts": [
+          "do not chase",
+          "risk reward",
+          "stop loss",
+          "discipline",
+          "wait for retracement",
+          "invalidation"
+        ]
+      }
+    ],
+    "rubric": {
+      "excellent": "Jawaban menyusun alur lengkap, menyebut bias, liquidity, struktur, konfirmasi, invalidation, target, dan contoh XAUUSD secara objektif.",
+      "pass": "Jawaban memahami konsep utama dan mampu menjelaskan sebagian alur praktik meskipun detail chart belum lengkap.",
+      "fail": "Jawaban hanya menghafal istilah, tidak menjelaskan alur trading, atau tidak menyebut risk dan invalidation."
+    },
+    "remedialLessons": [
+      "level-80/01-pondasi-full-ict-backtesting-model",
+      "level-80/02-mekanisme-full-ict-backtesting-model",
+      "level-80/03-membaca-full-ict-backtesting-model-di-chart",
+      "level-80/04-eksekusi-invalidasi-full-ict-backtesting-model",
+      "level-80/05-kesalahan-umum-full-ict-backtesting-model",
+      "level-80/06-studi-kasus-xauusd-full-ict-backtesting-model"
+    ]
   }
 ]

@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Settings as SettingsIcon, Brain, BookMarked } from 'lucide-react';
+import { Settings as SettingsIcon, Brain, BookMarked, Github } from 'lucide-react';
 
 export default function MoreMenu() {
   return (
@@ -14,6 +14,17 @@ export default function MoreMenu() {
           <div>
             <h2 className="text-lg font-bold">Trading Journal</h2>
             <p className="text-sm text-gray-400">Catat histori dan evaluasi trading harianmu</p>
+          </div>
+        </Link>
+        
+
+        <Link to="/developer-content" className="bg-dark p-6 rounded-xl border border-gray-800 flex items-center gap-4 hover:border-neon transition-colors group">
+          <div className="bg-emerald-500/20 p-3 rounded-lg text-emerald-400 group-hover:text-neon group-hover:bg-neon/20 transition-colors">
+            <Github size={24} />
+          </div>
+          <div>
+            <h2 className="text-lg font-bold">Developer Content Editor</h2>
+            <p className="text-sm text-gray-400">Edit materi dan gambar langsung ke GitHub repo pilihan</p>
           </div>
         </Link>
         

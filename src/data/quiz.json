@@ -4148,5 +4148,2495 @@
         "explanation": "Setelah konsisten, Anda tidak perlu meningkatkan persentase risiko (Overleveraging). Anda hanya perlu menambah nilai nominal modal (capital base) yang dikelola dengan kedisiplinan yang sama."
       }
     ]
+  },
+  {
+    "id": "quiz-51",
+    "levelId": "level-51",
+    "title": "Quiz: IPDA dan Price Delivery",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-51/01-pondasi-ipda-dan-price-delivery",
+      "level-51/02-mekanisme-ipda-dan-price-delivery",
+      "level-51/03-membaca-ipda-dan-price-delivery-di-chart",
+      "level-51/04-eksekusi-invalidasi-ipda-dan-price-delivery",
+      "level-51/05-kesalahan-umum-ipda-dan-price-delivery",
+      "level-51/06-studi-kasus-xauusd-ipda-dan-price-delivery"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama IPDA dalam konteks IPDA dan Price Delivery?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "IPDA membantu membaca konteks IPDA dan Price Delivery. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca IPDA dan Price Delivery, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa price delivery tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "price delivery perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup IPDA dan Price Delivery sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk IPDA dan Price Delivery adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-52",
+    "levelId": "level-52",
+    "title": "Quiz: AMD dan Power of 3",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-52/01-pondasi-amd-dan-power-of-3",
+      "level-52/02-mekanisme-amd-dan-power-of-3",
+      "level-52/03-membaca-amd-dan-power-of-3-di-chart",
+      "level-52/04-eksekusi-invalidasi-amd-dan-power-of-3",
+      "level-52/05-kesalahan-umum-amd-dan-power-of-3",
+      "level-52/06-studi-kasus-xauusd-amd-dan-power-of-3"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Accumulation dalam konteks AMD dan Power of 3?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Accumulation membantu membaca konteks AMD dan Power of 3. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca AMD dan Power of 3, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa Manipulation tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Manipulation perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup AMD dan Power of 3 sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk AMD dan Power of 3 adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-53",
+    "levelId": "level-53",
+    "title": "Quiz: Judas Swing dan Session Manipulation",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-53/01-pondasi-judas-swing-dan-session-manipulation",
+      "level-53/02-mekanisme-judas-swing-dan-session-manipulation",
+      "level-53/03-membaca-judas-swing-dan-session-manipulation-di-chart",
+      "level-53/04-eksekusi-invalidasi-judas-swing-dan-session-manipulation",
+      "level-53/05-kesalahan-umum-judas-swing-dan-session-manipulation",
+      "level-53/06-studi-kasus-xauusd-judas-swing-dan-session-manipulation"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Judas Swing dalam konteks Judas Swing dan Session Manipulation?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Judas Swing membantu membaca konteks Judas Swing dan Session Manipulation. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Judas Swing dan Session Manipulation, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa session manipulation tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "session manipulation perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Judas Swing dan Session Manipulation sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Judas Swing dan Session Manipulation adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-54",
+    "levelId": "level-54",
+    "title": "Quiz: Killzone dan Macro Time Windows",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-54/01-pondasi-killzone-dan-macro-time-windows",
+      "level-54/02-mekanisme-killzone-dan-macro-time-windows",
+      "level-54/03-membaca-killzone-dan-macro-time-windows-di-chart",
+      "level-54/04-eksekusi-invalidasi-killzone-dan-macro-time-windows",
+      "level-54/05-kesalahan-umum-killzone-dan-macro-time-windows",
+      "level-54/06-studi-kasus-xauusd-killzone-dan-macro-time-windows"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama London Killzone dalam konteks Killzone dan Macro Time Windows?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "London Killzone membantu membaca konteks Killzone dan Macro Time Windows. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Killzone dan Macro Time Windows, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa New York Killzone tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "New York Killzone perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Killzone dan Macro Time Windows sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Killzone dan Macro Time Windows adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-55",
+    "levelId": "level-55",
+    "title": "Quiz: Turtle Soup Model",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-55/01-pondasi-turtle-soup-model",
+      "level-55/02-mekanisme-turtle-soup-model",
+      "level-55/03-membaca-turtle-soup-model-di-chart",
+      "level-55/04-eksekusi-invalidasi-turtle-soup-model",
+      "level-55/05-kesalahan-umum-turtle-soup-model",
+      "level-55/06-studi-kasus-xauusd-turtle-soup-model"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Turtle Soup dalam konteks Turtle Soup Model?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Turtle Soup membantu membaca konteks Turtle Soup Model. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Turtle Soup Model, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa false breakout tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "false breakout perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Turtle Soup Model sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Turtle Soup Model adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-56",
+    "levelId": "level-56",
+    "title": "Quiz: CISD / Change in State of Delivery",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-56/01-pondasi-cisd-change-in-state-of-delivery",
+      "level-56/02-mekanisme-cisd-change-in-state-of-delivery",
+      "level-56/03-membaca-cisd-change-in-state-of-delivery-di-chart",
+      "level-56/04-eksekusi-invalidasi-cisd-change-in-state-of-delivery",
+      "level-56/05-kesalahan-umum-cisd-change-in-state-of-delivery",
+      "level-56/06-studi-kasus-xauusd-cisd-change-in-state-of-delivery"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama CISD dalam konteks CISD / Change in State of Delivery?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "CISD membantu membaca konteks CISD / Change in State of Delivery. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca CISD / Change in State of Delivery, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa delivery shift tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "delivery shift perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup CISD / Change in State of Delivery sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk CISD / Change in State of Delivery adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-57",
+    "levelId": "level-57",
+    "title": "Quiz: Silver Bullet Model",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-57/01-pondasi-silver-bullet-model",
+      "level-57/02-mekanisme-silver-bullet-model",
+      "level-57/03-membaca-silver-bullet-model-di-chart",
+      "level-57/04-eksekusi-invalidasi-silver-bullet-model",
+      "level-57/05-kesalahan-umum-silver-bullet-model",
+      "level-57/06-studi-kasus-xauusd-silver-bullet-model"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Silver Bullet dalam konteks Silver Bullet Model?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Silver Bullet membantu membaca konteks Silver Bullet Model. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Silver Bullet Model, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa liquidity sweep tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "liquidity sweep perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Silver Bullet Model sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Silver Bullet Model adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-58",
+    "levelId": "level-58",
+    "title": "Quiz: OTE dan Fibonacci ICT",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-58/01-pondasi-ote-dan-fibonacci-ict",
+      "level-58/02-mekanisme-ote-dan-fibonacci-ict",
+      "level-58/03-membaca-ote-dan-fibonacci-ict-di-chart",
+      "level-58/04-eksekusi-invalidasi-ote-dan-fibonacci-ict",
+      "level-58/05-kesalahan-umum-ote-dan-fibonacci-ict",
+      "level-58/06-studi-kasus-xauusd-ote-dan-fibonacci-ict"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama OTE dalam konteks OTE dan Fibonacci ICT?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "OTE membantu membaca konteks OTE dan Fibonacci ICT. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca OTE dan Fibonacci ICT, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa Fibonacci tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fibonacci perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup OTE dan Fibonacci ICT sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk OTE dan Fibonacci ICT adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-59",
+    "levelId": "level-59",
+    "title": "Quiz: ICT 2022 Mentorship Entry Model",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-59/01-pondasi-ict-2022-mentorship-entry-model",
+      "level-59/02-mekanisme-ict-2022-mentorship-entry-model",
+      "level-59/03-membaca-ict-2022-mentorship-entry-model-di-chart",
+      "level-59/04-eksekusi-invalidasi-ict-2022-mentorship-entry-model",
+      "level-59/05-kesalahan-umum-ict-2022-mentorship-entry-model",
+      "level-59/06-studi-kasus-xauusd-ict-2022-mentorship-entry-model"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama liquidity sweep dalam konteks ICT 2022 Mentorship Entry Model?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "liquidity sweep membantu membaca konteks ICT 2022 Mentorship Entry Model. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca ICT 2022 Mentorship Entry Model, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa market structure shift tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "market structure shift perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup ICT 2022 Mentorship Entry Model sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk ICT 2022 Mentorship Entry Model adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-60",
+    "levelId": "level-60",
+    "title": "Quiz: Unicorn dan Inversion Entry Model",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-60/01-pondasi-unicorn-dan-inversion-entry-model",
+      "level-60/02-mekanisme-unicorn-dan-inversion-entry-model",
+      "level-60/03-membaca-unicorn-dan-inversion-entry-model-di-chart",
+      "level-60/04-eksekusi-invalidasi-unicorn-dan-inversion-entry-model",
+      "level-60/05-kesalahan-umum-unicorn-dan-inversion-entry-model",
+      "level-60/06-studi-kasus-xauusd-unicorn-dan-inversion-entry-model"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Unicorn setup dalam konteks Unicorn dan Inversion Entry Model?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Unicorn setup membantu membaca konteks Unicorn dan Inversion Entry Model. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Unicorn dan Inversion Entry Model, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa Inversion FVG tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Inversion FVG perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Unicorn dan Inversion Entry Model sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Unicorn dan Inversion Entry Model adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-61",
+    "levelId": "level-61",
+    "title": "Quiz: PD Array Matrix",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-61/01-pondasi-pd-array-matrix",
+      "level-61/02-mekanisme-pd-array-matrix",
+      "level-61/03-membaca-pd-array-matrix-di-chart",
+      "level-61/04-eksekusi-invalidasi-pd-array-matrix",
+      "level-61/05-kesalahan-umum-pd-array-matrix",
+      "level-61/06-studi-kasus-xauusd-pd-array-matrix"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama PD Array dalam konteks PD Array Matrix?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "PD Array membantu membaca konteks PD Array Matrix. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca PD Array Matrix, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa Order Block tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Order Block perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup PD Array Matrix sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk PD Array Matrix adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-62",
+    "levelId": "level-62",
+    "title": "Quiz: Consequent Encroachment",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-62/01-pondasi-consequent-encroachment",
+      "level-62/02-mekanisme-consequent-encroachment",
+      "level-62/03-membaca-consequent-encroachment-di-chart",
+      "level-62/04-eksekusi-invalidasi-consequent-encroachment",
+      "level-62/05-kesalahan-umum-consequent-encroachment",
+      "level-62/06-studi-kasus-xauusd-consequent-encroachment"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Consequent Encroachment dalam konteks Consequent Encroachment?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Consequent Encroachment membantu membaca konteks Consequent Encroachment. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Consequent Encroachment, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa midpoint tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "midpoint perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Consequent Encroachment sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Consequent Encroachment adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-63",
+    "levelId": "level-63",
+    "title": "Quiz: Propulsion Block",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-63/01-pondasi-propulsion-block",
+      "level-63/02-mekanisme-propulsion-block",
+      "level-63/03-membaca-propulsion-block-di-chart",
+      "level-63/04-eksekusi-invalidasi-propulsion-block",
+      "level-63/05-kesalahan-umum-propulsion-block",
+      "level-63/06-studi-kasus-xauusd-propulsion-block"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Propulsion Block dalam konteks Propulsion Block?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Propulsion Block membantu membaca konteks Propulsion Block. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Propulsion Block, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa continuation tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "continuation perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Propulsion Block sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Propulsion Block adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-64",
+    "levelId": "level-64",
+    "title": "Quiz: Volume Imbalance dan Gap Analysis",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-64/01-pondasi-volume-imbalance-dan-gap-analysis",
+      "level-64/02-mekanisme-volume-imbalance-dan-gap-analysis",
+      "level-64/03-membaca-volume-imbalance-dan-gap-analysis-di-chart",
+      "level-64/04-eksekusi-invalidasi-volume-imbalance-dan-gap-analysis",
+      "level-64/05-kesalahan-umum-volume-imbalance-dan-gap-analysis",
+      "level-64/06-studi-kasus-xauusd-volume-imbalance-dan-gap-analysis"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Volume Imbalance dalam konteks Volume Imbalance dan Gap Analysis?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Volume Imbalance membantu membaca konteks Volume Imbalance dan Gap Analysis. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Volume Imbalance dan Gap Analysis, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa body gap tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "body gap perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Volume Imbalance dan Gap Analysis sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Volume Imbalance dan Gap Analysis adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-65",
+    "levelId": "level-65",
+    "title": "Quiz: Rejection Block dan Vacuum Block",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-65/01-pondasi-rejection-block-dan-vacuum-block",
+      "level-65/02-mekanisme-rejection-block-dan-vacuum-block",
+      "level-65/03-membaca-rejection-block-dan-vacuum-block-di-chart",
+      "level-65/04-eksekusi-invalidasi-rejection-block-dan-vacuum-block",
+      "level-65/05-kesalahan-umum-rejection-block-dan-vacuum-block",
+      "level-65/06-studi-kasus-xauusd-rejection-block-dan-vacuum-block"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Rejection Block dalam konteks Rejection Block dan Vacuum Block?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Rejection Block membantu membaca konteks Rejection Block dan Vacuum Block. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Rejection Block dan Vacuum Block, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa Vacuum Block tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vacuum Block perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Rejection Block dan Vacuum Block sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Rejection Block dan Vacuum Block adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-66",
+    "levelId": "level-66",
+    "title": "Quiz: Liquidity Void",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-66/01-pondasi-liquidity-void",
+      "level-66/02-mekanisme-liquidity-void",
+      "level-66/03-membaca-liquidity-void-di-chart",
+      "level-66/04-eksekusi-invalidasi-liquidity-void",
+      "level-66/05-kesalahan-umum-liquidity-void",
+      "level-66/06-studi-kasus-xauusd-liquidity-void"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Liquidity Void dalam konteks Liquidity Void?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Liquidity Void membantu membaca konteks Liquidity Void. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Liquidity Void, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa thin price tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "thin price perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Liquidity Void sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Liquidity Void adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-67",
+    "levelId": "level-67",
+    "title": "Quiz: Trendline Liquidity",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-67/01-pondasi-trendline-liquidity",
+      "level-67/02-mekanisme-trendline-liquidity",
+      "level-67/03-membaca-trendline-liquidity-di-chart",
+      "level-67/04-eksekusi-invalidasi-trendline-liquidity",
+      "level-67/05-kesalahan-umum-trendline-liquidity",
+      "level-67/06-studi-kasus-xauusd-trendline-liquidity"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama trendline liquidity dalam konteks Trendline Liquidity?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "trendline liquidity membantu membaca konteks Trendline Liquidity. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Trendline Liquidity, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa equal touches tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "equal touches perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Trendline Liquidity sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Trendline Liquidity adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-68",
+    "levelId": "level-68",
+    "title": "Quiz: High Resistance vs Low Resistance Liquidity Run",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-68/01-pondasi-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/02-mekanisme-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/03-membaca-high-resistance-vs-low-resistance-liquidity-run-di-chart",
+      "level-68/04-eksekusi-invalidasi-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/05-kesalahan-umum-high-resistance-vs-low-resistance-liquidity-run",
+      "level-68/06-studi-kasus-xauusd-high-resistance-vs-low-resistance-liquidity-run"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama high resistance liquidity dalam konteks High Resistance vs Low Resistance Liquidity Run?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "high resistance liquidity membantu membaca konteks High Resistance vs Low Resistance Liquidity Run. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca High Resistance vs Low Resistance Liquidity Run, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa low resistance liquidity tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "low resistance liquidity perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup High Resistance vs Low Resistance Liquidity Run sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk High Resistance vs Low Resistance Liquidity Run adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-69",
+    "levelId": "level-69",
+    "title": "Quiz: False Displacement",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-69/01-pondasi-false-displacement",
+      "level-69/02-mekanisme-false-displacement",
+      "level-69/03-membaca-false-displacement-di-chart",
+      "level-69/04-eksekusi-invalidasi-false-displacement",
+      "level-69/05-kesalahan-umum-false-displacement",
+      "level-69/06-studi-kasus-xauusd-false-displacement"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama false displacement dalam konteks False Displacement?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "false displacement membantu membaca konteks False Displacement. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca False Displacement, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa impulse trap tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "impulse trap perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup False Displacement sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk False Displacement adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-70",
+    "levelId": "level-70",
+    "title": "Quiz: Continuation Failure",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-70/01-pondasi-continuation-failure",
+      "level-70/02-mekanisme-continuation-failure",
+      "level-70/03-membaca-continuation-failure-di-chart",
+      "level-70/04-eksekusi-invalidasi-continuation-failure",
+      "level-70/05-kesalahan-umum-continuation-failure",
+      "level-70/06-studi-kasus-xauusd-continuation-failure"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama continuation failure dalam konteks Continuation Failure?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "continuation failure membantu membaca konteks Continuation Failure. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Continuation Failure, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa loss of momentum tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "loss of momentum perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Continuation Failure sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Continuation Failure adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-71",
+    "levelId": "level-71",
+    "title": "Quiz: MMXM / Market Maker Model",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-71/01-pondasi-mmxm-market-maker-model",
+      "level-71/02-mekanisme-mmxm-market-maker-model",
+      "level-71/03-membaca-mmxm-market-maker-model-di-chart",
+      "level-71/04-eksekusi-invalidasi-mmxm-market-maker-model",
+      "level-71/05-kesalahan-umum-mmxm-market-maker-model",
+      "level-71/06-studi-kasus-xauusd-mmxm-market-maker-model"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama Market Maker Buy Model dalam konteks MMXM / Market Maker Model?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Market Maker Buy Model membantu membaca konteks MMXM / Market Maker Model. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca MMXM / Market Maker Model, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa Market Maker Sell Model tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Market Maker Sell Model perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup MMXM / Market Maker Model sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk MMXM / Market Maker Model adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-72",
+    "levelId": "level-72",
+    "title": "Quiz: SMT Divergence",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-72/01-pondasi-smt-divergence",
+      "level-72/02-mekanisme-smt-divergence",
+      "level-72/03-membaca-smt-divergence-di-chart",
+      "level-72/04-eksekusi-invalidasi-smt-divergence",
+      "level-72/05-kesalahan-umum-smt-divergence",
+      "level-72/06-studi-kasus-xauusd-smt-divergence"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama SMT divergence dalam konteks SMT Divergence?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "SMT divergence membantu membaca konteks SMT Divergence. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca SMT Divergence, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa intermarket confirmation tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "intermarket confirmation perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup SMT Divergence sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk SMT Divergence adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-73",
+    "levelId": "level-73",
+    "title": "Quiz: Weekly Profile",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-73/01-pondasi-weekly-profile",
+      "level-73/02-mekanisme-weekly-profile",
+      "level-73/03-membaca-weekly-profile-di-chart",
+      "level-73/04-eksekusi-invalidasi-weekly-profile",
+      "level-73/05-kesalahan-umum-weekly-profile",
+      "level-73/06-studi-kasus-xauusd-weekly-profile"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama weekly open dalam konteks Weekly Profile?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "weekly open membantu membaca konteks Weekly Profile. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Weekly Profile, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa weekly high tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "weekly high perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Weekly Profile sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Weekly Profile adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-74",
+    "levelId": "level-74",
+    "title": "Quiz: NWOG dan NDOG",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-74/01-pondasi-nwog-dan-ndog",
+      "level-74/02-mekanisme-nwog-dan-ndog",
+      "level-74/03-membaca-nwog-dan-ndog-di-chart",
+      "level-74/04-eksekusi-invalidasi-nwog-dan-ndog",
+      "level-74/05-kesalahan-umum-nwog-dan-ndog",
+      "level-74/06-studi-kasus-xauusd-nwog-dan-ndog"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama NWOG dalam konteks NWOG dan NDOG?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "NWOG membantu membaca konteks NWOG dan NDOG. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca NWOG dan NDOG, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa NDOG tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "NDOG perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup NWOG dan NDOG sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk NWOG dan NDOG adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-75",
+    "levelId": "level-75",
+    "title": "Quiz: OHLC / OLHC Daily Bias",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-75/01-pondasi-ohlc-olhc-daily-bias",
+      "level-75/02-mekanisme-ohlc-olhc-daily-bias",
+      "level-75/03-membaca-ohlc-olhc-daily-bias-di-chart",
+      "level-75/04-eksekusi-invalidasi-ohlc-olhc-daily-bias",
+      "level-75/05-kesalahan-umum-ohlc-olhc-daily-bias",
+      "level-75/06-studi-kasus-xauusd-ohlc-olhc-daily-bias"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama OHLC dalam konteks OHLC / OLHC Daily Bias?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "OHLC membantu membaca konteks OHLC / OLHC Daily Bias. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca OHLC / OLHC Daily Bias, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa OLHC tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "OLHC perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup OHLC / OLHC Daily Bias sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk OHLC / OLHC Daily Bias adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-76",
+    "levelId": "level-76",
+    "title": "Quiz: PDH dan PDL",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-76/01-pondasi-pdh-dan-pdl",
+      "level-76/02-mekanisme-pdh-dan-pdl",
+      "level-76/03-membaca-pdh-dan-pdl-di-chart",
+      "level-76/04-eksekusi-invalidasi-pdh-dan-pdl",
+      "level-76/05-kesalahan-umum-pdh-dan-pdl",
+      "level-76/06-studi-kasus-xauusd-pdh-dan-pdl"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama PDH dalam konteks PDH dan PDL?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "PDH membantu membaca konteks PDH dan PDL. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca PDH dan PDL, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa PDL tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "PDL perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup PDH dan PDL sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk PDH dan PDL adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-77",
+    "levelId": "level-77",
+    "title": "Quiz: News Day dan Abnormal Volatility",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-77/01-pondasi-news-day-dan-abnormal-volatility",
+      "level-77/02-mekanisme-news-day-dan-abnormal-volatility",
+      "level-77/03-membaca-news-day-dan-abnormal-volatility-di-chart",
+      "level-77/04-eksekusi-invalidasi-news-day-dan-abnormal-volatility",
+      "level-77/05-kesalahan-umum-news-day-dan-abnormal-volatility",
+      "level-77/06-studi-kasus-xauusd-news-day-dan-abnormal-volatility"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama news day dalam konteks News Day dan Abnormal Volatility?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "news day membantu membaca konteks News Day dan Abnormal Volatility. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca News Day dan Abnormal Volatility, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa abnormal volatility tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "abnormal volatility perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup News Day dan Abnormal Volatility sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk News Day dan Abnormal Volatility adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-78",
+    "levelId": "level-78",
+    "title": "Quiz: DXY Correlation untuk XAUUSD",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-78/01-pondasi-dxy-correlation-untuk-xauusd",
+      "level-78/02-mekanisme-dxy-correlation-untuk-xauusd",
+      "level-78/03-membaca-dxy-correlation-untuk-xauusd-di-chart",
+      "level-78/04-eksekusi-invalidasi-dxy-correlation-untuk-xauusd",
+      "level-78/05-kesalahan-umum-dxy-correlation-untuk-xauusd",
+      "level-78/06-studi-kasus-xauusd-dxy-correlation-untuk-xauusd"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama DXY dalam konteks DXY Correlation untuk XAUUSD?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "DXY membantu membaca konteks DXY Correlation untuk XAUUSD. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca DXY Correlation untuk XAUUSD, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa correlation tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "correlation perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup DXY Correlation untuk XAUUSD sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk DXY Correlation untuk XAUUSD adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-79",
+    "levelId": "level-79",
+    "title": "Quiz: Framework Khusus XAUUSD",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-79/01-pondasi-framework-khusus-xauusd",
+      "level-79/02-mekanisme-framework-khusus-xauusd",
+      "level-79/03-membaca-framework-khusus-xauusd-di-chart",
+      "level-79/04-eksekusi-invalidasi-framework-khusus-xauusd",
+      "level-79/05-kesalahan-umum-framework-khusus-xauusd",
+      "level-79/06-studi-kasus-xauusd-framework-khusus-xauusd"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama XAUUSD behavior dalam konteks Framework Khusus XAUUSD?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD behavior membantu membaca konteks Framework Khusus XAUUSD. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Framework Khusus XAUUSD, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa volatility tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "volatility perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Framework Khusus XAUUSD sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Framework Khusus XAUUSD adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
+  },
+  {
+    "id": "quiz-80",
+    "levelId": "level-80",
+    "title": "Quiz: Full ICT Backtesting Model",
+    "passingScore": 80,
+    "xpReward": 50,
+    "remedialLessons": [
+      "level-80/01-pondasi-full-ict-backtesting-model",
+      "level-80/02-mekanisme-full-ict-backtesting-model",
+      "level-80/03-membaca-full-ict-backtesting-model-di-chart",
+      "level-80/04-eksekusi-invalidasi-full-ict-backtesting-model",
+      "level-80/05-kesalahan-umum-full-ict-backtesting-model",
+      "level-80/06-studi-kasus-xauusd-full-ict-backtesting-model"
+    ],
+    "questions": [
+      {
+        "question": "Apa fungsi utama backtesting dalam konteks Full ICT Backtesting Model?",
+        "options": [
+          "Sebagai alat untuk membaca konteks dan alur harga, bukan sinyal entry tunggal",
+          "Sebagai jaminan harga pasti bergerak sesuai prediksi",
+          "Sebagai pengganti Stop Loss dan manajemen risiko",
+          "Sebagai indikator otomatis untuk buy dan sell"
+        ],
+        "correctAnswer": 0,
+        "explanation": "backtesting membantu membaca konteks Full ICT Backtesting Model. Ia harus digabung dengan struktur, liquidity, timing, dan risk."
+      },
+      {
+        "question": "Dalam membaca Full ICT Backtesting Model, apa yang harus dilakukan sebelum mencari entry?",
+        "options": [
+          "Menentukan liquidity, bias, dan lokasi harga dalam struktur",
+          "Langsung entry ketika candle terakhir besar",
+          "Menggandakan lot agar target lebih cepat tercapai",
+          "Mengabaikan timeframe besar agar entry lebih cepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Entry sehat dimulai dari konteks: bias, liquidity, POI, dan invalidation. Candle terakhir saja tidak cukup."
+      },
+      {
+        "question": "Mengapa sample size tidak boleh dipakai sendirian?",
+        "options": [
+          "Karena semua konsep trading selalu salah",
+          "Karena tanpa konfirmasi struktur dan lokasi, ia bisa menjadi sinyal palsu",
+          "Karena hanya berlaku untuk saham",
+          "Karena tidak boleh dipakai di XAUUSD"
+        ],
+        "correctAnswer": 1,
+        "explanation": "sample size perlu dibaca bersama struktur, liquidity, displacement, dan posisi harga."
+      },
+      {
+        "question": "Apa tanda setup Full ICT Backtesting Model sebaiknya dibatalkan?",
+        "options": [
+          "Harga menyentuh invalidation atau tidak memberi follow-through sesuai skenario",
+          "Harga bergerak lambat selama beberapa detik",
+          "Trader merasa bosan menunggu",
+          "Ada candle hijau atau merah biasa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Setup batal ketika alasan teknikalnya hilang, terutama saat invalidation tersentuh atau delivery berubah berlawanan."
+      },
+      {
+        "question": "Pada XAUUSD, mengapa session dan timing penting ketika memakai konsep ini?",
+        "options": [
+          "Karena gold sering bergerak cepat, menyapu liquidity, dan membuat wick ekstrem pada jam aktif",
+          "Karena gold tidak pernah bergerak di luar Asia",
+          "Karena session membuat semua entry pasti profit",
+          "Karena timing bisa menggantikan analisis struktur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "XAUUSD sangat sensitif terhadap waktu aktif, news, dan liquidity event. Timing adalah filter, bukan pengganti analisis."
+      },
+      {
+        "question": "Urutan berpikir yang paling sehat untuk Full ICT Backtesting Model adalah...",
+        "options": [
+          "Bias → liquidity → reaksi/displacement → entry zone → invalidation → target",
+          "Entry dulu → cari alasan setelahnya → tambah lot jika rugi",
+          "Lihat satu candle → tebak arah → pindah SL jika salah",
+          "Ambil semua setup yang terlihat mirip di timeframe kecil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Urutan ini menjaga trader tetap objektif dan menghindari entry emosional."
+      }
+    ]
   }
 ]
