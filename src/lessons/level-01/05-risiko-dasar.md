@@ -3,7 +3,11 @@
 Level: Level 01 — Newbie Trader  
 XP: 10
 
-![Manajemen Risiko](/images/lessons/level-01/05-risk-management.svg)
+
+
+![1000697456](/images/lessons/level-01/1779869924797-1000697456.png)
+
+
 
 ## Kenapa Risiko Lebih Penting dari Profit?
 
