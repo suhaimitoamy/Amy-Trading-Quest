@@ -3,7 +3,7 @@
 Level: Level 01 — Newbie Trader
 XP: 10
 
-![Ilustrasi Konsep Trading](/images/lessons/level-01/01-trading-concept.svg)
+
 
 ## Mengapa Materi Ini Penting
 Memahami apa yang sebenarnya kita lakukan saat trading adalah fondasi utama. Banyak yang tersesat dan menganggap trading sebagai cara cepat kaya atau malah menyamakannya dengan judi. Dengan memahami bahwa trading adalah bisnis tukar-menukar nilai berdasarkan probabilitas, kamu akan memiliki ekspektasi yang benar sejak hari pertama.
@@ -50,3 +50,6 @@ Coba perhatikan fluktuasi harga barang-barang di pasar atau supermarket terdekat
 
 ## Materi Remedial
 Jika gagal quiz atau belum paham, ulangi materi ini dan fokus pada bagian **Trading sebagai bisnis probabilitas** dan mengapa ekspektasi yang benar sangat menentukan keberhasilan masa depanmu.
+
+![1000697373](/images/lessons/level-01/1779862837451-1000697373.png)
+
