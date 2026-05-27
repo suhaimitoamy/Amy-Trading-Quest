@@ -124,6 +124,12 @@ Cukup amati pergerakannya.
 
 Tanyakan ke diri sendiri:
 
+
+
+![1000697373](/images/lessons/level-01/1779863046472-1000697373.png)
+
+
+
 Harga sedang naik, turun, atau bolak-balik di area yang sama?  
 Kalau seseorang buy di bawah lalu jual di atas, apakah dia mendapat selisih keuntungan?  
 Kalau harga bergerak berlawanan, apa yang bisa terjadi pada posisi trader?
