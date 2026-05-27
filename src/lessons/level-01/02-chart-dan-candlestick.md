@@ -179,3 +179,6 @@ OHLC adalah Open, High, Low, dan Close.
 Body menunjukkan jarak open dan close.  
 Wick menunjukkan harga sempat bergerak ke area tertentu lalu ditolak.  
 Candle yang sudah close lebih jelas dibaca daripada candle yang masih berjalan.
+
+![1000697383](/images/lessons/level-01/1779867005536-1000697383.png)
+
