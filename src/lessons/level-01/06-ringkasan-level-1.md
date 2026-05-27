@@ -296,3 +296,8 @@ Di level berikutnya, materi akan mulai lebih dalam. Karena itu, jangan buru-buru
 Ulangi materi yang masih terasa abu-abu.
 
 Karena semakin kuat pondasi Level 1, semakin mudah kamu memahami level berikutnya.
+
+
+
+![1000697471](/images/lessons/level-01/1779870272456-1000697471.png)
+
