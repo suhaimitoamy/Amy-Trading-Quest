@@ -273,3 +273,6 @@ Risk to Reward Ratio membantu trader tetap bisa profit walaupun tidak selalu ben
 Jangan menggeser SL hanya karena takut rugi.  
 Jangan martingale sembarangan.  
 Trading yang sehat dimulai dari menghitung risiko sebelum mengejar profit.
+
+![1000697453](/images/lessons/level-01/1779869307860-1000697453.png)
+
