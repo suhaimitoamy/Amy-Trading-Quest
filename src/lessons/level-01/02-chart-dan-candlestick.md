@@ -3,7 +3,7 @@
 Level: Level 01 — Newbie Trader  
 XP: 10
 
-![Anatomi Candlestick](/images/lessons/level-01/02-candlestick-anatomy.svg)
+![1000697383](/images/lessons/level-01/1779867005536-1000697383.png)
 
 ## Chart Itu Apa?
 
@@ -35,6 +35,11 @@ Contohnya:
 Kalau kamu membuka timeframe M15, berarti satu candle mewakili pergerakan harga selama 15 menit.  
 Kalau kamu membuka timeframe H1, berarti satu candle mewakili pergerakan harga selama 1 jam.  
 Kalau kamu membuka timeframe D1, berarti satu candle mewakili pergerakan harga selama 1 hari.  
+
+
+![1000697384](/images/lessons/level-01/1779867080949-1000697384.png)
+
+
 
 Jadi jangan salah paham. Candle yang kamu lihat bukan gambar acak. Setiap candle menyimpan cerita tentang apa yang terjadi pada harga dalam periode waktu tertentu.
 
@@ -180,5 +185,5 @@ Body menunjukkan jarak open dan close.
 Wick menunjukkan harga sempat bergerak ke area tertentu lalu ditolak.  
 Candle yang sudah close lebih jelas dibaca daripada candle yang masih berjalan.
 
-![1000697383](/images/lessons/level-01/1779867005536-1000697383.png)
+
 
