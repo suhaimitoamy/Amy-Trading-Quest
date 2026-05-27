@@ -62,6 +62,12 @@ Harga Gold naik dari 2340 ke 2380. Saat menyentuh area 2380, harga gagal lanjut 
 
 Beberapa waktu kemudian, harga naik lagi ke sekitar 2380 dan kembali ditolak turun.
 
+
+
+![1000697437](/images/lessons/level-01/1779868283198-1000697437.png)
+
+
+
 Nah, area 2380 itu bisa dianggap sebagai resistance.
 
 Kenapa?
