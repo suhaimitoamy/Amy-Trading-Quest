@@ -172,6 +172,12 @@ Kalau harga hanya bolak-balik di area yang sama, tandai sebagai range.
 
 Latihan ini akan melatih mata kamu melihat arah market sebelum berpikir entry.
 
+
+
+![1000697435](/images/lessons/level-01/1779867768287-1000697435.png)
+
+
+
 ## Penguatan Sebelum Lanjut
 
 Sebelum lanjut ke materi berikutnya, pastikan kamu paham inti ini:
