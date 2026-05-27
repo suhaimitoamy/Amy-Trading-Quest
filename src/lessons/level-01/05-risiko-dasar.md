@@ -3,7 +3,11 @@
 Level: Level 01 — Newbie Trader
 XP: 10
 
-![Manajemen Risiko](/images/lessons/level-01/05-risk-management.svg)
+
+
+
+![1000697453](/images/lessons/level-01/1779869040971-1000697453.png)
+
 
 ## Mengapa Materi Ini Penting
 Kebenaran yang pahit: kamu bisa memiliki strategi trading yang hanya benar 4 dari 10 kali (win rate 40%) tapi tetap menghasilkan uang jika manajemen risikomu brilian. Sebaliknya, kamu bisa punya strategi dengan win rate 90%, namun satu kali kerugian besar tanpa manajemen risiko bisa menghanguskan seluruh modalmu (Margin Call). Manajemen risiko bukan hanya sekadar pelindung, ini adalah satu-satunya rahasia panjang umur (survival) di industri trading yang kejam ini.
